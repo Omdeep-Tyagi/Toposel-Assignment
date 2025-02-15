@@ -133,7 +133,7 @@ For any inquiries or questions, please contact:
 PORT=3000
 
 # MongoDB connection URI
-CONNECTION_STRING=mongodb://localhost:27017/wanderworld
+CONNECTION_STRING=mongodb://localhost:27017/Toposel-Assignment
 
 # Acsess Token secret
 ACCESS_TOKEN_SECRET=your_secret_code

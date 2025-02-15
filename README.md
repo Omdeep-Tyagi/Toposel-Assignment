@@ -90,6 +90,14 @@ To install and run this project locally, follow these steps:
 
 ---
 
+## Postman Collection (API Testing)
+
+To test the API endpoints, use the following Postman collection:
+
+🔗 [Click here to view the Postman collection](https://www.postman.com/aviation-pilot-89741121/my-workspace/collection/ek6njto/toposel-assignment?action=share&creator=40724566)
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please follow these steps to contribute:

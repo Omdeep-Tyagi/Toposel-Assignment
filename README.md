@@ -49,6 +49,7 @@ Example:
 Authorization: Bearer <your_token>
 ```
 
+---
 
 
 
@@ -87,6 +88,7 @@ To install and run this project locally, follow these steps:
 6. Open your browser and go to `http://localhost:3000`.
 
 
+---
 
 ## Contributing
 
@@ -99,11 +101,17 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Open a pull request.
 
 
+---
+
+
 ## Acknowledgements
 
 - [Express](https://expressjs.com/)
 - [Mongoose](https://mongoosejs.com/)
 - [Passport](http://www.passportjs.org/)
+
+
+---
 
 
 ## Contact
@@ -114,7 +122,7 @@ For any inquiries or questions, please contact:
 - LinkedIn: [Omdeep-Tyagi](https://www.linkedin.com/in/omdeep-tyagi-428854272/)
 - Mail: tyagiom2308@gmail.com
 
-
+---
 
 ## Sample .env File
 
@@ -131,4 +139,5 @@ CONNECTION_STRING=mongodb://localhost:27017/wanderworld
 ACCESS_TOKEN_SECRET=your_secret_code
 ```
 
+---
 
